@@ -1,0 +1,5 @@
+en:
+    welcome_header: Welcome!
+    errors:
+        invalid_type: 'Invalid type encountered!'
+        record_not_found: '{{.name}} record not found!'
