@@ -1,0 +1,4 @@
+es:
+    errors:
+        invalid_type: 'Tipo inválido encontrado!'
+        record_not_found: 'Registro de {{.name}} no encontrado!'

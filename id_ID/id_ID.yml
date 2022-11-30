@@ -1,0 +1,4 @@
+id_ID:
+    errors:
+        invalid_type: 'Tipe data tidak valid!'
+        record_not_found: '{{.name}} tidak ditemukan!'
